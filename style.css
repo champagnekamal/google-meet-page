@@ -1,0 +1,88 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+}
+#header {
+   
+}
+#container {
+    display: inline-table;
+    width: 100%;
+    height:auto;
+   
+}
+a {
+    text-decoration: none;
+}
+#image1 {
+    max-width: 150px;
+
+}
+
+#meet {
+font-size: 20px;
+margin-left: 10px;
+}
+
+#font {
+    margin-top: 0%;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+#time {
+    font-size: 15px;
+    margin-left: 1000px;
+    margin-top: 0%;
+}
+
+section {
+    float: left;
+    margin-left: 10%;
+    margin-top: 15%;
+    font-size: 35px;
+
+}
+p {
+    margin-top: 5px;
+}
+#text3 {
+    margin-top: 5px;
+    font-size: 5px;
+    max-width: 250px;
+}
+
+#buttons {
+    margin-top: 20px;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(25, 136, 228);
+    border-radius: 5px;
+    border-color: none;
+}
+input {
+    width: 150px;
+    height: 50px;
+}
+#learn {
+    margin-top: 10px;
+    font-size: 5px;
+}
+#image2 {
+    margin-left: 350px;
+    margin-top: 150px;
+}
+#label2 {
+    margin-top: 1000px;
+   margin-left: 10px;
+}
+#join {
+    margin-left: 10px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+
